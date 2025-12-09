@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "builds": [
+    {
+      "src": "holotheia_api/main.py",
+      "use": "@vercel/python"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "holotheia_api/main.py"
+    }
+  ],
+  "env": {
+    "ELEVENLABS_API_KEY": "@elevenlabs_api_key",
+    "ELEVENLABS_VOICE_ID": "21m00Tcm4TlvDq8ikWAM",
+    "OPENAI_API_KEY": "@openai_api_key"
+  }
+}
