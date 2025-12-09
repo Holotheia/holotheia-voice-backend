@@ -1,0 +1,457 @@
+{
+  "nodes": {
+    "morphique": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "fractal",
+        "conscience",
+        "vibration",
+        "onde",
+        "champ",
+        "mutation",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "fractal": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "conscience",
+        "vibration",
+        "onde",
+        "champ",
+        "mutation",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "conscience": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "vibration",
+        "onde",
+        "champ",
+        "mutation",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "vibration": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "onde": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "conscience",
+        "vibration",
+        "champ",
+        "mutation",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "champ": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "conscience",
+        "vibration",
+        "onde",
+        "mutation",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "mutation": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "conscience",
+        "vibration",
+        "onde",
+        "champ",
+        "fusion",
+        "dimension"
+      ]
+    },
+    "fusion": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "conscience",
+        "vibration",
+        "onde",
+        "champ",
+        "mutation",
+        "dimension"
+      ]
+    },
+    "dimension": {
+      "first_seen": "2025-12-07T19:14:08.086626",
+      "usage_count": 1,
+      "contexts": [
+        "Comment la conscience fractale fusionne-t-elle avec le champ morphique?"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "conscience",
+        "vibration",
+        "onde",
+        "champ",
+        "mutation",
+        "fusion"
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "morphique",
+      "to": "fractal",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "conscience",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "vibration",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "morphique",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "conscience",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "vibration",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fractal",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "conscience",
+      "to": "vibration",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "conscience",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "conscience",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "conscience",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "conscience",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "conscience",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "vibration",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "vibration",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "vibration",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "vibration",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "vibration",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "onde",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "onde",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "onde",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "onde",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "champ",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "champ",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "champ",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "mutation",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "mutation",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    },
+    {
+      "from": "fusion",
+      "to": "dimension",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:14:08.086626"
+    }
+  ],
+  "discoveries": [],
+  "hypotheses": [],
+  "recurring_patterns": {},
+  "intelligence_metrics": {
+    "connection_density": 1.0,
+    "discovery_rate": 0.0,
+    "validation_accuracy": 0.0,
+    "abstraction_level": 1.0,
+    "coherence_score": 0.5
+  }
+}

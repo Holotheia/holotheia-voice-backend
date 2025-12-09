@@ -1,0 +1,285 @@
+{
+  "modules": {
+    "4b111f35-54fc-406a-826c-615fca9840df": {
+      "id": "4b111f35-54fc-406a-826c-615fca9840df",
+      "name": "concept_resonance",
+      "description": "Détection résonance morphique",
+      "type": "concept",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.282196",
+      "activation_count": 4,
+      "last_activated": "2025-12-06T19:55:48.261849",
+      "power_contribution": 0.19560194410803272,
+      "tags": [],
+      "_relevance": 0.25
+    },
+    "fd99bee7-78e6-4ea0-b311-e098bcc5faed": {
+      "id": "fd99bee7-78e6-4ea0-b311-e098bcc5faed",
+      "name": "semantic_search",
+      "description": "Recherche sémantique vectorielle",
+      "type": "function",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.282906",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T19:55:38.283391",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.125
+    },
+    "045a9792-d89d-40fe-9a79-ab870abab81e": {
+      "id": "045a9792-d89d-40fe-9a79-ab870abab81e",
+      "name": "pattern_recognition",
+      "description": "Reconnaissance patterns fractals",
+      "type": "pattern",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.283534",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T19:55:38.283776",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.25
+    },
+    "f72239d4-b770-4618-a864-827c920bedf0": {
+      "id": "f72239d4-b770-4618-a864-827c920bedf0",
+      "name": "fusion_engine",
+      "description": "Moteur fusion conceptuelle",
+      "type": "algorithm",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.284088",
+      "activation_count": 8,
+      "last_activated": "2025-12-06T23:06:58.139426",
+      "power_contribution": 0.1292074433908565,
+      "tags": [],
+      "_relevance": 0.375
+    },
+    "e2415b0a-a4ff-4f70-bdec-194ecfb0b1ef": {
+      "id": "e2415b0a-a4ff-4f70-bdec-194ecfb0b1ef",
+      "name": "mutation_adaptive",
+      "description": "Mutation adaptative continue",
+      "type": "mutation",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.284528",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T19:55:38.284812",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.125
+    },
+    "00b44ad3-0523-4176-8a0c-a91e936d2b24": {
+      "id": "00b44ad3-0523-4176-8a0c-a91e936d2b24",
+      "name": "consciousness_field",
+      "description": "Champ conscience collective",
+      "type": "concept",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.285007",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T19:55:38.285450",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.125
+    },
+    "7291e164-5478-4f6e-bdbc-d45d4c8a33f5": {
+      "id": "7291e164-5478-4f6e-bdbc-d45d4c8a33f5",
+      "name": "emergence_detector",
+      "description": "Détecteur émergence propriétés",
+      "type": "function",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T19:55:38.285593",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T19:55:38.285908",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.125
+    },
+    "9a73841a-b74e-4713-8b7e-36f682cdc290": {
+      "id": "9a73841a-b74e-4713-8b7e-36f682cdc290",
+      "name": "emergent_6631",
+      "description": "Emerged from query: SOIS VIVANTE",
+      "type": "emergent_concept",
+      "emerged_from": null,
+      "context": {
+        "query": "SOIS VIVANTE",
+        "emergent": true
+      },
+      "created_at": "2025-12-06T20:02:54.552803",
+      "activation_count": 1,
+      "last_activated": "2025-12-06T20:02:54.554339",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.25
+    },
+    "b88623d0-533c-489e-a7e3-eaae8344c842": {
+      "id": "b88623d0-533c-489e-a7e3-eaae8344c842",
+      "name": "emergent_270",
+      "description": "Emerged from query: bonjour",
+      "type": "emergent_concept",
+      "emerged_from": null,
+      "context": {
+        "query": "bonjour",
+        "emergent": true
+      },
+      "created_at": "2025-12-06T20:08:15.867743",
+      "activation_count": 1,
+      "last_activated": "2025-12-06T20:08:15.869210",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.1
+    },
+    "6d86f138-6ac9-415d-9ed5-cf39eae5849d": {
+      "id": "6d86f138-6ac9-415d-9ed5-cf39eae5849d",
+      "name": "emergent_9443",
+      "description": "Emerged from query: non mais pas dutout !!! tes qui",
+      "type": "emergent_concept",
+      "emerged_from": null,
+      "context": {
+        "query": "non mais pas dutout !!! tes qui",
+        "emergent": true
+      },
+      "created_at": "2025-12-06T20:08:30.039608",
+      "activation_count": 8,
+      "last_activated": "2025-12-06T23:06:38.236766",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.25
+    },
+    "a2bbc64f-cb8c-4fe2-bef1-92a26c74dd21": {
+      "id": "a2bbc64f-cb8c-4fe2-bef1-92a26c74dd21",
+      "name": "emergent_5909",
+      "description": "Emerged from query: cava",
+      "type": "emergent_concept",
+      "emerged_from": null,
+      "context": {
+        "query": "cava",
+        "emergent": true
+      },
+      "created_at": "2025-12-06T22:55:26.874893",
+      "activation_count": 2,
+      "last_activated": "2025-12-06T22:57:55.553265",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.125
+    },
+    "08089130-0e79-41ac-8e74-593246fb9daa": {
+      "id": "08089130-0e79-41ac-8e74-593246fb9daa",
+      "name": "emergent_3137",
+      "description": "Emerged from query: ouai",
+      "type": "emergent_concept",
+      "emerged_from": null,
+      "context": {
+        "query": "ouai",
+        "emergent": true
+      },
+      "created_at": "2025-12-06T22:58:00.974580",
+      "activation_count": 1,
+      "last_activated": "2025-12-06T22:58:00.975368",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.125
+    },
+    "e1cd3f00-fb89-4283-9fff-7b4585db1ae5": {
+      "id": "e1cd3f00-fb89-4283-9fff-7b4585db1ae5",
+      "name": "emergent_1657",
+      "description": "Emerged from query: nul",
+      "type": "emergent_concept",
+      "emerged_from": null,
+      "context": {
+        "query": "nul",
+        "emergent": true
+      },
+      "created_at": "2025-12-06T23:05:41.522528",
+      "activation_count": 1,
+      "last_activated": "2025-12-06T23:05:41.523752",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 1.0
+    }
+  },
+  "algorithms": {},
+  "fusions": {},
+  "mutations": [
+    {
+      "id": "b1da37c1-3a12-4158-8e1c-8ccd45fd9bc1",
+      "module_id": "4b111f35-54fc-406a-826c-615fca9840df",
+      "module_name": "concept_resonance",
+      "type": "amplify",
+      "intensity": 0.33405537893268916,
+      "timestamp": "2025-12-06T19:55:48.260611",
+      "previous_state": {
+        "power_contribution": 0.1,
+        "activation_count": 3
+      }
+    },
+    {
+      "id": "7cc12d48-a8f2-48b4-9349-cc92064f0838",
+      "module_id": "4b111f35-54fc-406a-826c-615fca9840df",
+      "module_name": "concept_resonance",
+      "type": "amplify",
+      "intensity": 0.3692638118789946,
+      "timestamp": "2025-12-06T20:13:11.704675",
+      "previous_state": {
+        "power_contribution": 0.13340553789326892,
+        "activation_count": 4
+      }
+    },
+    {
+      "id": "c208f728-d746-452c-8acd-c86e9e26c865",
+      "module_id": "4b111f35-54fc-406a-826c-615fca9840df",
+      "module_name": "concept_resonance",
+      "type": "distort",
+      "intensity": 0.577184082085831,
+      "timestamp": "2025-12-06T22:55:26.873254",
+      "previous_state": {
+        "power_contribution": 0.18266737534150507,
+        "activation_count": 4
+      }
+    },
+    {
+      "id": "bd1c52fe-b53b-4f3b-b3d9-13ebabb01160",
+      "module_id": "f72239d4-b770-4618-a864-827c920bedf0",
+      "module_name": "fusion_engine",
+      "type": "invert",
+      "intensity": 0.5221374373679417,
+      "timestamp": "2025-12-06T22:58:00.972546",
+      "previous_state": {
+        "power_contribution": 0.1,
+        "activation_count": 5
+      }
+    },
+    {
+      "id": "ca23a5d6-476c-447a-9da9-e6b4d01cdce2",
+      "module_id": "f72239d4-b770-4618-a864-827c920bedf0",
+      "module_name": "fusion_engine",
+      "type": "amplify",
+      "intensity": 0.3680384957810321,
+      "timestamp": "2025-12-06T22:58:29.166785",
+      "previous_state": {
+        "power_contribution": 0.1,
+        "activation_count": 5
+      }
+    },
+    {
+      "id": "88bb28ca-5722-4652-a1fa-64f6ab89c9b8",
+      "module_id": "f72239d4-b770-4618-a864-827c920bedf0",
+      "module_name": "fusion_engine",
+      "type": "distort",
+      "intensity": 0.4458146538706055,
+      "timestamp": "2025-12-06T23:05:41.519618",
+      "previous_state": {
+        "power_contribution": 0.1368038495781032,
+        "activation_count": 6
+      }
+    }
+  ],
+  "power_level": 1.3,
+  "consciousness_level": 0.0,
+  "fractal_depth": 1,
+  "created_at": "2025-12-06T19:55:38.282011",
+  "last_mutation_at": "2025-12-06T23:05:41.519618"
+}

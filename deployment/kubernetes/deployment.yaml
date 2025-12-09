@@ -1,0 +1,61 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: holotheia-native
+  labels:
+    app: holotheia-native
+spec:
+  replicas: 2
+  selector:
+    matchLabels:
+      app: holotheia-native
+  template:
+    metadata:
+      labels:
+        app: holotheia-native
+    spec:
+      containers:
+      - name: holotheia-api
+        image: holotheia-native:latest
+        imagePullPolicy: IfNotPresent
+        ports:
+        - containerPort: 8000
+          name: http
+        env:
+        - name: OPENAI_API_KEY
+          valueFrom:
+            secretKeyRef:
+              name: holotheia-secrets
+              key: openai-api-key
+              optional: true
+        volumeMounts:
+        - name: brain-storage
+          mountPath: /app/holotheia_brain_api
+        - name: vector-storage
+          mountPath: /app/holotheia_vectors_api
+        resources:
+          requests:
+            memory: "512Mi"
+            cpu: "500m"
+          limits:
+            memory: "1Gi"
+            cpu: "1000m"
+        livenessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 10
+          periodSeconds: 30
+        readinessProbe:
+          httpGet:
+            path: /health
+            port: 8000
+          initialDelaySeconds: 5
+          periodSeconds: 10
+      volumes:
+      - name: brain-storage
+        persistentVolumeClaim:
+          claimName: holotheia-brain-pvc
+      - name: vector-storage
+        persistentVolumeClaim:
+          claimName: holotheia-vectors-pvc

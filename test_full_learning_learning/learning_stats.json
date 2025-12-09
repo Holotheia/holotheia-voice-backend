@@ -1,0 +1,9 @@
+{
+  "total_interactions": 1,
+  "total_words_learned": 474,
+  "unique_concepts": 0,
+  "quality_avg": 0.0,
+  "ready_for_training": false,
+  "training_threshold": 1000,
+  "last_training_export": null
+}

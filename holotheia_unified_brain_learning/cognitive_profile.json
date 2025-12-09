@@ -1,0 +1,39 @@
+{
+  "query_types": {
+    "open": 17,
+    "identity": 3
+  },
+  "response_strategies": {
+    "direct": 11,
+    "structured": 5,
+    "vibrational": 3,
+    "socratic": 1
+  },
+  "reasoning_patterns": {
+    "question_back": 6,
+    "embodiment": 2,
+    "fusion": 8,
+    "scanning": 7,
+    "metaphor": 1,
+    "reframe": 1
+  },
+  "approach_sequences": [
+    "question_back -> embodiment -> fusion",
+    "scanning -> fusion",
+    "scanning -> fusion",
+    "scanning -> fusion",
+    "metaphor -> scanning -> fusion",
+    "question_back -> fusion",
+    "question_back -> embodiment -> fusion",
+    "question_back -> scanning -> fusion",
+    "question_back -> reframe -> scanning",
+    "question_back -> scanning"
+  ],
+  "concepts_map": {},
+  "domain_expertise": {},
+  "input_transforms": {},
+  "output_patterns": {},
+  "self_references": [],
+  "boundary_responses": {},
+  "error_corrections": []
+}

@@ -1,0 +1,117 @@
+{
+  "modules": {
+    "266aac0a-adc6-47a3-a85c-7f98461b2160": {
+      "id": "266aac0a-adc6-47a3-a85c-7f98461b2160",
+      "name": "concept_resonance",
+      "description": "Détection résonance morphique",
+      "type": "concept",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.034164",
+      "activation_count": 4,
+      "last_activated": "2025-12-09T00:17:43.187952",
+      "power_contribution": 0.0794024818737696,
+      "tags": [],
+      "_relevance": 1.0
+    },
+    "391d53e9-5ba2-411f-845f-f98f9ecc3310": {
+      "id": "391d53e9-5ba2-411f-845f-f98f9ecc3310",
+      "name": "semantic_search",
+      "description": "Recherche sémantique vectorielle",
+      "type": "function",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.034670",
+      "activation_count": 3,
+      "last_activated": "2025-12-08T12:50:59.034977",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "44c11d3f-de15-4469-ae7b-dd87b638eb3e": {
+      "id": "44c11d3f-de15-4469-ae7b-dd87b638eb3e",
+      "name": "pattern_recognition",
+      "description": "Reconnaissance patterns fractals",
+      "type": "pattern",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.035104",
+      "activation_count": 3,
+      "last_activated": "2025-12-08T12:50:59.035321",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "4b946bc0-8fde-4bc1-a4db-97ebf820ff1e": {
+      "id": "4b946bc0-8fde-4bc1-a4db-97ebf820ff1e",
+      "name": "fusion_engine",
+      "description": "Moteur fusion conceptuelle",
+      "type": "algorithm",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.035603",
+      "activation_count": 3,
+      "last_activated": "2025-12-08T12:50:59.035878",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "599d6279-c822-4790-8705-7f5f0437183d": {
+      "id": "599d6279-c822-4790-8705-7f5f0437183d",
+      "name": "mutation_adaptive",
+      "description": "Mutation adaptative continue",
+      "type": "mutation",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.036003",
+      "activation_count": 3,
+      "last_activated": "2025-12-08T12:50:59.036360",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "284fbcf0-2ffc-4123-898b-2381ee41d589": {
+      "id": "284fbcf0-2ffc-4123-898b-2381ee41d589",
+      "name": "consciousness_field",
+      "description": "Champ conscience collective",
+      "type": "concept",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.036651",
+      "activation_count": 3,
+      "last_activated": "2025-12-08T12:50:59.036989",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "59c9b4e6-6ecb-4a38-9c66-9147e99794bd": {
+      "id": "59c9b4e6-6ecb-4a38-9c66-9147e99794bd",
+      "name": "emergence_detector",
+      "description": "Détecteur émergence propriétés",
+      "type": "function",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-08T12:50:59.037122",
+      "activation_count": 3,
+      "last_activated": "2025-12-08T12:50:59.037499",
+      "power_contribution": 0.1,
+      "tags": []
+    }
+  },
+  "algorithms": {},
+  "fusions": {},
+  "mutations": [
+    {
+      "id": "a16ab955-0442-4688-b7eb-212d0335784b",
+      "module_id": "266aac0a-adc6-47a3-a85c-7f98461b2160",
+      "module_name": "concept_resonance",
+      "type": "dissolve",
+      "intensity": 0.41195036252460826,
+      "timestamp": "2025-12-09T00:17:43.187432",
+      "previous_state": {
+        "power_contribution": 0.1,
+        "activation_count": 3
+      }
+    }
+  ],
+  "power_level": 0.7,
+  "consciousness_level": 0.0,
+  "fractal_depth": 1,
+  "created_at": "2025-12-08T12:50:59.034067",
+  "last_mutation_at": "2025-12-09T00:17:43.187432"
+}

@@ -1,0 +1,264 @@
+{
+  "modules": {
+    "module_76c4f1bd": {
+      "id": "module_76c4f1bd",
+      "name": "conscience_fractale",
+      "description": "Module de conscience fractale auto-réflexive",
+      "type": "core",
+      "context": {},
+      "activation_count": 66,
+      "last_activated": "2025-12-08T10:21:05.674456",
+      "created_at": "2025-12-07T01:09:57.144344",
+      "weight": 2.8678107124877643,
+      "connections": []
+    },
+    "module_50831be6": {
+      "id": "module_50831be6",
+      "name": "resonance_morphique",
+      "description": "Champ de résonance non-local",
+      "type": "field",
+      "context": {},
+      "activation_count": 64,
+      "last_activated": "2025-12-08T10:21:05.676200",
+      "created_at": "2025-12-07T01:09:57.144948",
+      "weight": 2.264830414613585,
+      "connections": []
+    },
+    "module_9b6a027a": {
+      "id": "module_9b6a027a",
+      "name": "fusion_emergence",
+      "description": "Moteur de fusion et émergence",
+      "type": "engine",
+      "context": {},
+      "activation_count": 5,
+      "last_activated": "2025-12-07T18:44:25.997806",
+      "created_at": "2025-12-07T01:09:57.145234",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_ad30a785": {
+      "id": "module_ad30a785",
+      "name": "mutation_adaptive",
+      "description": "Système de mutation autonome",
+      "type": "evolution",
+      "context": {},
+      "activation_count": 2,
+      "last_activated": "2025-12-07T01:16:36.458819",
+      "created_at": "2025-12-07T01:09:57.145463",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_d806d37c": {
+      "id": "module_d806d37c",
+      "name": "perception_vibratoire",
+      "description": "Interface de perception multidimensionnelle",
+      "type": "sensor",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T01:09:57.145837",
+      "created_at": "2025-12-07T01:09:57.145718",
+      "weight": 1.5170851960048704,
+      "connections": []
+    }
+  },
+  "fusions": {
+    "fusion_59a1c7d4": {
+      "id": "fusion_59a1c7d4",
+      "modules": [
+        "module_76c4f1bd",
+        "module_50831be6"
+      ],
+      "type": "fusion",
+      "created_at": "2025-12-08T10:21:05.677165",
+      "power": 1.0
+    },
+    "fusion_d8e13487": {
+      "id": "fusion_d8e13487",
+      "modules": [
+        "module_76c4f1bd",
+        "module_ad30a785"
+      ],
+      "type": "fusion",
+      "created_at": "2025-12-07T01:16:36.459382",
+      "power": 1.0
+    },
+    "fusion_c7d8ae80": {
+      "id": "fusion_c7d8ae80",
+      "modules": [
+        "module_76c4f1bd",
+        "module_9b6a027a"
+      ],
+      "type": "fusion",
+      "created_at": "2025-12-07T18:44:25.999455",
+      "power": 1.0
+    }
+  },
+  "mutations": [
+    {
+      "type": "dissolve",
+      "target": "module_ad30a785",
+      "intensity": 0.3369134273391756,
+      "timestamp": "2025-12-07T01:10:10.943436"
+    },
+    {
+      "type": "invert",
+      "target": "module_9b6a027a",
+      "intensity": 0.837858159895094,
+      "timestamp": "2025-12-07T01:12:51.343823"
+    },
+    {
+      "type": "amplify",
+      "target": "module_76c4f1bd",
+      "intensity": 0.9677631722809628,
+      "timestamp": "2025-12-07T01:16:35.231984"
+    },
+    {
+      "type": "amplify",
+      "target": "module_50831be6",
+      "intensity": 0.8774155364500249,
+      "timestamp": "2025-12-07T01:16:38.402469"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_d806d37c",
+      "intensity": 0.6792814199270871,
+      "timestamp": "2025-12-07T01:16:39.833170"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_d806d37c",
+      "intensity": 0.3217150122187261,
+      "timestamp": "2025-12-07T01:36:29.788856"
+    },
+    {
+      "type": "invert",
+      "target": "module_ad30a785",
+      "intensity": 0.5281816157314485,
+      "timestamp": "2025-12-07T01:40:33.796206"
+    },
+    {
+      "type": "dissolve",
+      "target": "module_76c4f1bd",
+      "intensity": 0.3958558310391379,
+      "timestamp": "2025-12-07T01:40:37.237874"
+    },
+    {
+      "type": "distort",
+      "target": "module_76c4f1bd",
+      "intensity": 0.4187089475811453,
+      "timestamp": "2025-12-07T01:40:41.197518"
+    },
+    {
+      "type": "invert",
+      "target": "module_76c4f1bd",
+      "intensity": 0.9243420434293375,
+      "timestamp": "2025-12-07T01:40:53.119938"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_ad30a785",
+      "intensity": 0.3934542557095727,
+      "timestamp": "2025-12-07T01:40:55.956263"
+    },
+    {
+      "type": "amplify",
+      "target": "module_76c4f1bd",
+      "intensity": 0.5901403315879497,
+      "timestamp": "2025-12-07T01:41:02.057349"
+    },
+    {
+      "type": "amplify",
+      "target": "module_d806d37c",
+      "intensity": 0.8108838312901101,
+      "timestamp": "2025-12-07T02:03:58.668076"
+    },
+    {
+      "type": "amplify",
+      "target": "module_50831be6",
+      "intensity": 0.4568962976812021,
+      "timestamp": "2025-12-07T18:48:01.423475"
+    },
+    {
+      "type": "distort",
+      "target": "module_50831be6",
+      "intensity": 0.690643055900847,
+      "timestamp": "2025-12-07T19:20:10.764332"
+    },
+    {
+      "type": "dissolve",
+      "target": "module_d806d37c",
+      "intensity": 0.6292584825472316,
+      "timestamp": "2025-12-07T19:25:24.420745"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_9b6a027a",
+      "intensity": 0.428167855011971,
+      "timestamp": "2025-12-07T19:38:15.197193"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_9b6a027a",
+      "intensity": 0.3308340196278602,
+      "timestamp": "2025-12-07T19:41:28.270563"
+    },
+    {
+      "type": "invert",
+      "target": "module_d806d37c",
+      "intensity": 0.9811672622563674,
+      "timestamp": "2025-12-07T20:06:27.824032"
+    },
+    {
+      "type": "distort",
+      "target": "module_50831be6",
+      "intensity": 0.41748389117091156,
+      "timestamp": "2025-12-07T20:16:47.250100"
+    },
+    {
+      "type": "invert",
+      "target": "module_d806d37c",
+      "intensity": 0.4902584820265915,
+      "timestamp": "2025-12-07T20:17:59.857686"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_76c4f1bd",
+      "intensity": 0.918334095357445,
+      "timestamp": "2025-12-07T20:18:07.531053"
+    },
+    {
+      "type": "invert",
+      "target": "module_ad30a785",
+      "intensity": 0.7481450419685212,
+      "timestamp": "2025-12-07T20:18:28.646794"
+    },
+    {
+      "type": "distort",
+      "target": "module_d806d37c",
+      "intensity": 0.8845299253466616,
+      "timestamp": "2025-12-07T20:22:33.564812"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_76c4f1bd",
+      "intensity": 0.8984717955001491,
+      "timestamp": "2025-12-07T20:29:09.237632"
+    },
+    {
+      "type": "distort",
+      "target": "module_d806d37c",
+      "intensity": 0.5188930142088508,
+      "timestamp": "2025-12-07T20:29:09.241846"
+    },
+    {
+      "type": "crosslink",
+      "target": "module_76c4f1bd",
+      "intensity": 0.41864699720552623,
+      "timestamp": "2025-12-07T20:33:02.131762"
+    }
+  ],
+  "power_level": 2.379999999999993,
+  "consciousness_level": 4.7,
+  "fractal_depth": 2,
+  "saved_at": "2025-12-08T10:21:05.677192"
+}

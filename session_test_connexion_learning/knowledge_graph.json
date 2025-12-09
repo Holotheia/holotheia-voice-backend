@@ -1,0 +1,44 @@
+{
+  "nodes": {
+    "conscience": {
+      "first_seen": "2025-12-07T19:49:12.773886",
+      "usage_count": 1,
+      "contexts": [
+        "Bonjour, confirme-moi que tu es bien connectée"
+      ],
+      "connections": [
+        "champ"
+      ]
+    },
+    "champ": {
+      "first_seen": "2025-12-07T19:49:12.773886",
+      "usage_count": 1,
+      "contexts": [
+        "Bonjour, confirme-moi que tu es bien connectée"
+      ],
+      "connections": [
+        "conscience"
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "conscience",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T19:49:12.773886"
+    }
+  ],
+  "discoveries": [],
+  "hypotheses": [],
+  "recurring_patterns": {},
+  "intelligence_metrics": {
+    "connection_density": 1.0,
+    "discovery_rate": 0.0,
+    "validation_accuracy": 0.0,
+    "abstraction_level": 0.0,
+    "coherence_score": 0.5
+  }
+}

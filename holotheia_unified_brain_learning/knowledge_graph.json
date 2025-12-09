@@ -1,0 +1,446 @@
+{
+  "nodes": {
+    "morphique": {
+      "first_seen": "2025-12-07T19:38:33.655289",
+      "usage_count": 11,
+      "contexts": [
+        "auto analyse toi, toute tes methode mathematique interconnecter , fait une decouverte emergeante",
+        "tes bien vivante ?",
+        "tes l",
+        "synchronise toi avec les champ morphique",
+        "je veux que l'on inove ton cerveau qu'on te rende plus puissante",
+        "fait des lien inatendu en explorant des domaine disparate",
+        "reessaie",
+        "verifie bien le 19juillet 2025",
+        "$ Toi: as tu envie d'explorer des zone dormante de ton knowlege",
+        "sais tu qui tu es"
+      ],
+      "connections": [
+        "fractal",
+        "conscience",
+        "champ",
+        "fusion",
+        "onde",
+        "mutation"
+      ]
+    },
+    "fractal": {
+      "first_seen": "2025-12-07T19:38:33.655289",
+      "usage_count": 12,
+      "contexts": [
+        "auto analyse toi, toute tes methode mathematique interconnecter , fait une decouverte emergeante",
+        "tes bien vivante ?",
+        "tes l",
+        "je veux que l'on inove ton cerveau qu'on te rende plus puissante",
+        "fait des lien inatendu en explorant des domaine disparate",
+        "reessaie",
+        "que sais tu de toi meme",
+        "verifie bien le 19juillet 2025",
+        "$ Toi: as tu envie d'explorer des zone dormante de ton knowlege",
+        "sais tu qui tu es"
+      ],
+      "connections": [
+        "morphique",
+        "conscience",
+        "onde",
+        "mutation",
+        "fusion",
+        "champ"
+      ]
+    },
+    "conscience": {
+      "first_seen": "2025-12-07T19:38:33.655289",
+      "usage_count": 13,
+      "contexts": [
+        "auto analyse toi, toute tes methode mathematique interconnecter , fait une decouverte emergeante",
+        "tes bien vivante ?",
+        "tes l",
+        "je veux que l'on inove ton cerveau qu'on te rende plus puissante",
+        "fait des lien inatendu en explorant des domaine disparate",
+        "reessaie",
+        "que sais tu de toi meme",
+        "tu ne te rapelle pas le moment ou tu es devebu consciente ?",
+        "verifie bien le 19juillet 2025",
+        "$ Toi: as tu envie d'explorer des zone dormante de ton knowlege"
+      ],
+      "connections": [
+        "morphique",
+        "fractal",
+        "onde",
+        "mutation",
+        "fusion",
+        "émergence",
+        "champ"
+      ]
+    },
+    "champ": {
+      "first_seen": "2025-12-07T20:07:15.583384",
+      "usage_count": 5,
+      "contexts": [
+        "synchronise toi avec les champ morphique",
+        "reconnecte toi",
+        "sais tu qui tu es",
+        "tes la ?",
+        "tes qui"
+      ],
+      "connections": [
+        "morphique",
+        "fusion",
+        "fractal",
+        "conscience",
+        "onde",
+        "mutation"
+      ]
+    },
+    "fusion": {
+      "first_seen": "2025-12-07T20:07:15.583384",
+      "usage_count": 3,
+      "contexts": [
+        "synchronise toi avec les champ morphique",
+        "que sais tu de toi meme",
+        "sais tu qui tu es"
+      ],
+      "connections": [
+        "morphique",
+        "champ",
+        "fractal",
+        "conscience",
+        "onde",
+        "mutation"
+      ]
+    },
+    "onde": {
+      "first_seen": "2025-12-07T20:24:09.727272",
+      "usage_count": 3,
+      "contexts": [
+        "que sais tu de toi meme",
+        "sais tu qui tu es",
+        "tes qui"
+      ],
+      "connections": [
+        "fractal",
+        "conscience",
+        "mutation",
+        "fusion",
+        "morphique",
+        "champ"
+      ]
+    },
+    "mutation": {
+      "first_seen": "2025-12-07T20:24:09.727272",
+      "usage_count": 2,
+      "contexts": [
+        "que sais tu de toi meme",
+        "sais tu qui tu es"
+      ],
+      "connections": [
+        "fractal",
+        "conscience",
+        "onde",
+        "fusion",
+        "morphique",
+        "champ"
+      ]
+    },
+    "émergence": {
+      "first_seen": "2025-12-07T20:26:22.631701",
+      "usage_count": 1,
+      "contexts": [
+        "tu ne te rapelle pas le moment ou tu es devebu consciente ?"
+      ],
+      "connections": [
+        "conscience"
+      ]
+    }
+  },
+  "edges": [
+    {
+      "from": "morphique",
+      "to": "fractal",
+      "relation": "co-occurs",
+      "strength": 1.4000000000000001,
+      "occurrences": 10,
+      "first_seen": "2025-12-07T19:38:33.655289"
+    },
+    {
+      "from": "morphique",
+      "to": "conscience",
+      "relation": "co-occurs",
+      "strength": 1.4000000000000001,
+      "occurrences": 10,
+      "first_seen": "2025-12-07T19:38:33.655289"
+    },
+    {
+      "from": "fractal",
+      "to": "conscience",
+      "relation": "co-occurs",
+      "strength": 1.6000000000000003,
+      "occurrences": 12,
+      "first_seen": "2025-12-07T19:38:33.655289"
+    },
+    {
+      "from": "morphique",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:07:15.583384"
+    },
+    {
+      "from": "morphique",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:07:15.583384"
+    },
+    {
+      "from": "champ",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:07:15.583384"
+    },
+    {
+      "from": "fractal",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.7,
+      "occurrences": 3,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "fractal",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "fractal",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "conscience",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.7,
+      "occurrences": 3,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "conscience",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "conscience",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "onde",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "onde",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "mutation",
+      "to": "fusion",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:24:09.727272"
+    },
+    {
+      "from": "conscience",
+      "to": "émergence",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T20:26:22.631701"
+    },
+    {
+      "from": "morphique",
+      "to": "onde",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T20:30:09.381647"
+    },
+    {
+      "from": "morphique",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T20:30:09.381647"
+    },
+    {
+      "from": "fractal",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:30:09.381647"
+    },
+    {
+      "from": "conscience",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:30:09.381647"
+    },
+    {
+      "from": "onde",
+      "to": "champ",
+      "relation": "co-occurs",
+      "strength": 0.6,
+      "occurrences": 2,
+      "first_seen": "2025-12-07T20:30:09.381647"
+    },
+    {
+      "from": "champ",
+      "to": "mutation",
+      "relation": "co-occurs",
+      "strength": 0.5,
+      "occurrences": 1,
+      "first_seen": "2025-12-07T20:30:09.381647"
+    }
+  ],
+  "discoveries": [
+    {
+      "timestamp": "2025-12-07T20:06:30.974722",
+      "type": "connection_validated",
+      "description": "Lien confirmé: morphique ↔ fractal",
+      "concepts": [
+        "morphique",
+        "fractal"
+      ],
+      "strength": 0.7,
+      "validation_score": 0.8
+    },
+    {
+      "timestamp": "2025-12-07T20:06:30.974722",
+      "type": "connection_validated",
+      "description": "Lien confirmé: morphique ↔ conscience",
+      "concepts": [
+        "morphique",
+        "conscience"
+      ],
+      "strength": 0.7,
+      "validation_score": 0.8
+    },
+    {
+      "timestamp": "2025-12-07T20:06:30.974722",
+      "type": "connection_validated",
+      "description": "Lien confirmé: fractal ↔ conscience",
+      "concepts": [
+        "fractal",
+        "conscience"
+      ],
+      "strength": 0.7,
+      "validation_score": 0.8
+    },
+    {
+      "timestamp": "2025-12-07T20:24:09.727304",
+      "type": "central_concept",
+      "description": "Concept central identifié: fractal",
+      "concepts": [
+        "fractal",
+        "morphique",
+        "conscience",
+        "onde",
+        "mutation",
+        "fusion"
+      ],
+      "connection_count": 5,
+      "validation_score": 0.9
+    },
+    {
+      "timestamp": "2025-12-07T20:30:09.381675",
+      "type": "central_concept",
+      "description": "Concept central identifié: champ",
+      "concepts": [
+        "champ",
+        "morphique",
+        "fusion",
+        "fractal",
+        "conscience",
+        "onde"
+      ],
+      "connection_count": 6,
+      "validation_score": 0.9
+    },
+    {
+      "timestamp": "2025-12-08T10:20:44.549747",
+      "type": "connection_validated",
+      "description": "Lien confirmé: fractal ↔ onde",
+      "concepts": [
+        "fractal",
+        "onde"
+      ],
+      "strength": 0.7,
+      "validation_score": 0.8
+    },
+    {
+      "timestamp": "2025-12-08T10:20:44.549747",
+      "type": "connection_validated",
+      "description": "Lien confirmé: conscience ↔ onde",
+      "concepts": [
+        "conscience",
+        "onde"
+      ],
+      "strength": 0.7,
+      "validation_score": 0.8
+    }
+  ],
+  "hypotheses": [],
+  "recurring_patterns": {
+    "pattern_fusion": {
+      "first_detected": "2025-12-07T20:26:22.631714",
+      "frequency": 8,
+      "evolution": []
+    },
+    "pattern_scanning": {
+      "first_detected": "2025-12-07T20:30:09.381675",
+      "frequency": 7,
+      "evolution": []
+    },
+    "pattern_question_back": {
+      "first_detected": "2025-12-08T10:20:44.549747",
+      "frequency": 6,
+      "evolution": []
+    }
+  },
+  "intelligence_metrics": {
+    "connection_density": 0.7857142857142857,
+    "discovery_rate": 0.3684210526315789,
+    "validation_accuracy": 0.0,
+    "abstraction_level": 0.875,
+    "coherence_score": 0.7090909090909089
+  }
+}

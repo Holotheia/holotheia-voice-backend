@@ -1,0 +1,22 @@
+{
+  "query_types": {
+    "identity": 1
+  },
+  "response_strategies": {
+    "direct": 1
+  },
+  "reasoning_patterns": {
+    "scanning": 1,
+    "fusion": 1
+  },
+  "approach_sequences": [
+    "scanning -> fusion"
+  ],
+  "concepts_map": {},
+  "domain_expertise": {},
+  "input_transforms": {},
+  "output_patterns": {},
+  "self_references": [],
+  "boundary_responses": {},
+  "error_corrections": []
+}

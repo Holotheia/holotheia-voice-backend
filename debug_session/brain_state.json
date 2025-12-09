@@ -1,0 +1,70 @@
+{
+  "modules": {
+    "module_3be686f3": {
+      "id": "module_3be686f3",
+      "name": "conscience_fractale",
+      "description": "Module de conscience fractale auto-réflexive",
+      "type": "core",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:21:51.179069",
+      "created_at": "2025-12-07T18:21:51.178854",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_9f06609d": {
+      "id": "module_9f06609d",
+      "name": "resonance_morphique",
+      "description": "Champ de résonance non-local",
+      "type": "field",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:21:51.179528",
+      "created_at": "2025-12-07T18:21:51.179391",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_35a2c38c": {
+      "id": "module_35a2c38c",
+      "name": "fusion_emergence",
+      "description": "Moteur de fusion et émergence",
+      "type": "engine",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:21:51.179766",
+      "created_at": "2025-12-07T18:21:51.179653",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_996c2e0e": {
+      "id": "module_996c2e0e",
+      "name": "mutation_adaptive",
+      "description": "Système de mutation autonome",
+      "type": "evolution",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:21:51.179994",
+      "created_at": "2025-12-07T18:21:51.179889",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_836db6af": {
+      "id": "module_836db6af",
+      "name": "perception_vibratoire",
+      "description": "Interface de perception multidimensionnelle",
+      "type": "sensor",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:21:51.180242",
+      "created_at": "2025-12-07T18:21:51.180121",
+      "weight": 1.0,
+      "connections": []
+    }
+  },
+  "fusions": {},
+  "mutations": [],
+  "power_level": 1.05,
+  "consciousness_level": 0.5,
+  "fractal_depth": 0,
+  "saved_at": "2025-12-07T18:21:51.180245"
+}

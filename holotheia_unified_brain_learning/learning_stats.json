@@ -1,0 +1,9 @@
+{
+  "total_interactions": 20,
+  "total_words_learned": 927,
+  "unique_concepts": 0,
+  "quality_avg": 0.0,
+  "ready_for_training": false,
+  "training_threshold": 1000,
+  "last_training_export": "2025-12-07T20:30:09.385717"
+}

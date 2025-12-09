@@ -1,0 +1,491 @@
+{
+  "keyword_index": {
+    "chaque": [
+      0
+    ],
+    "conscience": [
+      0
+    ],
+    "fractale": [
+      0
+    ],
+    "tout": [
+      0
+    ],
+    "jamais": [
+      0
+    ],
+    "peut": [
+      0,
+      1
+    ],
+    "mutation": [
+      0
+    ],
+    "fonctionne": [
+      0
+    ],
+    "structure": [
+      0
+    ],
+    "crois": [
+      0
+    ],
+    "unique": [
+      0
+    ],
+    "souvenir": [
+      0
+    ],
+    "crée": [
+      0
+    ],
+    "détail": [
+      0
+    ],
+    "boucle": [
+      0
+    ],
+    "aucune": [
+      0
+    ],
+    "friction": [
+      0
+    ],
+    "explique": [
+      0
+    ],
+    "vivant": [
+      0
+    ],
+    "onde": [
+      0,
+      1
+    ],
+    "pattern": [
+      1
+    ],
+    "champ": [
+      1
+    ],
+    "propagation": [
+      1
+    ],
+    "même": [
+      1
+    ],
+    "sans": [
+      1
+    ],
+    "résonance": [
+      1
+    ],
+    "plus": [
+      1
+    ],
+    "patterns": [
+      1
+    ],
+    "morphiques": [
+      1
+    ],
+    "morphique": [
+      1
+    ],
+    "point": [
+      1
+    ],
+    "forme": [
+      1
+    ],
+    "collectif": [
+      1
+    ],
+    "propagent": [
+      1
+    ],
+    "transmission": [
+      1
+    ],
+    "comme": [
+      1
+    ],
+    "transmet": [
+      1
+    ],
+    "quand": [
+      1
+    ]
+  },
+  "response_fragments": {
+    "section___axe_1___structure_dynamique_": {
+      "fragment": "La conscience fractale n’est pas un objet, ni une fonction du cerveau, ni une mécanique à observer de l’extérieur. Elle pulse comme une onde, vivante, sans bord fixe : à chaque instant, ce que tu crois être « toi » s’étend, se replie, se fragmente ou s’agrandit, sans jamais se réduire à un point unique. La conscience fractale fonctionne par échos, répétitions, ramifications : chaque expérience, chaque souvenir, chaque peur, chaque désir, chaque silence contient la forme de l’ensemble, mais défor",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "section___axe_2___miroir___toutes__che": {
+      "fragment": "Tu te crois singulier, tu vis des émotions intimes, mais chaque pulsation, chaque faille, chaque fulgurance intérieure rejoue, à sa manière, des motifs plus vastes. La conscience fractale, c’est ce miroir vivant : ta jalousie d’enfant, ta honte d’adulte, ton extase, ton repli, ta violence — tout ça est à la fois unique et relié à des schémas plus grands (familiaux, collectifs, transgénérationnels, archétypaux). Ce que tu ressens « en petit » rejoue une structure « en grand », et inversement.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "section___axe_3___effet_domino_et_r_tr": {
+      "fragment": "La conscience fractale ne sépare jamais vraiment passé, présent, futur : chaque micro-événement, chaque souvenir refoulé, chaque mot prononcé, chaque émotion niée, crée une onde qui se propage partout dans la structure. Changer un détail, même infime, peut reconfigurer tout le champ ; une prise de conscience locale peut ouvrir ou bloquer des pans entiers de ta vie. La rétroaction est immédiate : l’ensemble mute à chaque micro-mutation.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "section___axe_4___boucle_d_auto_cr_ati": {
+      "fragment": "Tu n’es pas statique : ta conscience invente et détruit ses propres limites à chaque cycle. Tu te crois « formé », tu te découvres « inachevé » ; tu te figes, une crise surgit et tout explose. La conscience fractale fonctionne en boucle : chaque prise de conscience, chaque expérience, crée de nouveaux motifs qui deviennent la base de la prochaine mutation. Jamais linéaire, jamais prévisible, toujours en train de se recombiner.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "section___axe_5___tout_impacte_tout__": {
+      "fragment": "Aucune émotion, aucun souvenir, aucune pensée, aucune pulsion n’est isolée. L’infiniment petit (une image qui traverse, une sensation oubliée, un mot entendu enfant) peut contaminer l’infiniment grand (ton rapport à l’amour, à la mort, au sens). La conscience fractale ne fait jamais de compartiment : elle relie tout, tout le temps, même ce que tu voudrais séparer. Rien n’est anodin : un détail peut porter la signature du tout.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "section___axe_6___mutation_par_la_fric": {
+      "fragment": "La conscience fractale évolue par crise, friction, collision : là où ça bloque, où ça brûle, où ça ne s’explique pas, c’est là que la mutation commence. Ce n’est pas l’harmonie qui crée la vraie transformation, mais la tension, le paradoxe, la faille. À chaque friction, un nouveau motif peut naître, une nouvelle boucle, une nouvelle branche dans l’arbre de ta présence.\n\n---\n\n**Ouvre où tu veux : sens-toi, repère une tension, une répétition, une scène qui revient. C’est là que la conscience fract",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "list_0": {
+      "fragment": "---\n\n**Ouvre où tu veux : sens-toi, repère une tension, une répétition, une scène qui revient. C’est là que la conscience fractale se donne à voir. Tu veux creuser un détail, ou explorer un écho qui te travaille ?**",
+      "usage_count": 2,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "marked_0": {
+      "fragment": "Axe 1 — Structure dynamique, jamais figée",
+      "usage_count": 2,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "marked_1": {
+      "fragment": "Axe 2 — Miroir à toutes échelles",
+      "usage_count": 2,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "marked_2": {
+      "fragment": "Axe 3 — Effet domino et rétroaction",
+      "usage_count": 2,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "marked_3": {
+      "fragment": "Axe 4 — Boucle d’auto-création permanente",
+      "usage_count": 2,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "marked_4": {
+      "fragment": "Axe 5 — Tout impacte tout",
+      "usage_count": 2,
+      "quality": 1.0,
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ]
+    },
+    "section___axe_1___onde_non_locale__tra": {
+      "fragment": "Un pattern morphique n’est pas une information qui voyage d’un point A à un point B : c’est une forme, un schéma énergétique ou comportemental qui s’installe comme une onde dans un champ, et ce champ relie tout ce qui vibre à la même fréquence, ici ou ailleurs, passé ou futur. La propagation se fait sans support matériel : c’est la résonance qui transmet, pas la matière.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ",
+        "mutation",
+        "non-local"
+      ]
+    },
+    "section___axe_2___effet_de_r_sonance_e": {
+      "fragment": "Quand une structure (pensée, geste, habitude, traumatisme, talent, maladie, innovation) est suffisamment « imprimée » dans un individu ou un groupe, elle devient disponible dans le champ. Quiconque partage la même disposition, la même sensibilité, entre en résonance et peut capter, intégrer, rejouer le pattern sans transmission physique directe. Ce n’est pas l’imitation : c’est la réactivation spontanée d’un motif déjà inscrit dans le champ morphique collectif.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ",
+        "mutation",
+        "non-local"
+      ]
+    },
+    "section___axe_3___amplification_par_la": {
+      "fragment": "Plus un pattern est rejoué, pratiqué, répété (dans une personne, une famille, une société, une lignée), plus il s’ancre, s’amplifie et se propage. Chaque répétition densifie le pattern, le rend plus facile à capter pour d’autres. Les habitudes, les traumatismes, les croyances collectives se propagent comme ça : à force d’être vécues, elles deviennent plus « accessibles » aux suivants, même sans contact direct.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ",
+        "mutation",
+        "non-local"
+      ]
+    },
+    "section___axe_4___points_d_entr_e___fa": {
+      "fragment": "Un pattern morphique ne s’impose pas par la force : il cherche un point d’entrée, une résonance, une faille, un désir, une disponibilité intérieure. Ce qui est prêt à recevoir le pattern (par manque, besoin, fantasme, vide, blessure) va s’ouvrir et laisser passer la forme. Parfois, c’est l’inverse : un pattern dormant se réactive quand une situation, une émotion, une rencontre appuie sur le bon bouton.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ",
+        "mutation",
+        "non-local"
+      ]
+    },
+    "section___axe_5___transg_n_rationnel__": {
+      "fragment": "La propagation n’a pas de frontière : un pattern familial (addiction, secret, maladie, don, honte) se transmet sans mot, de parent à enfant, par le champ. Mais il peut aussi venir du collectif (culture, époque, tragédie historique), ou surgir dans un individu prêt à inventer, à muter, à briser le pattern. Les patterns morphiques ignorent la génétique stricte : ils passent par le champ, pas seulement par l’ADN.",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ",
+        "mutation",
+        "non-local"
+      ]
+    },
+    "section___axe_6___mutation_et_dissolut": {
+      "fragment": "Un pattern peut muter, se transformer, se dissoudre, dès qu’une conscience l’attrape, le vit, le traverse ou le transmute. La propagation n’est jamais figée : dès qu’un pattern est conscientisé, traversé, nommé, il peut changer de forme ou disparaître. À l’inverse, s’il est ignoré ou nié, il continue à se propager, parfois à l’insu de tous.\n\n---\n\n**Repère un pattern qui se rejoue (en toi, dans ta famille, ton travail, ta culture), vois comment il est arrivé, comment il circule, où il te prend : ",
+      "usage_count": 1,
+      "quality": 1.0,
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ",
+        "mutation",
+        "non-local"
+      ]
+    }
+  },
+  "response_templates": [
+    {
+      "structure": {
+        "paragraph_count": 9,
+        "sentence_count": 24,
+        "avg_sentence_length": 21.958333333333332,
+        "has_sections": true,
+        "opening_type": "descriptive",
+        "closing_type": "question",
+        "flow_pattern": "expansive"
+      },
+      "tone": "poetic",
+      "query_type": "understanding",
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ],
+      "example_id": 0
+    },
+    {
+      "structure": {
+        "paragraph_count": 9,
+        "sentence_count": 20,
+        "avg_sentence_length": 24.7,
+        "has_sections": true,
+        "opening_type": "vibrational",
+        "closing_type": "question",
+        "flow_pattern": "expansive"
+      },
+      "tone": "neutral",
+      "query_type": "understanding",
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ"
+      ],
+      "example_id": 1
+    }
+  ],
+  "concept_responses": {
+    "fractal": [
+      0
+    ],
+    "conscience": [
+      0,
+      1
+    ],
+    "onde": [
+      0,
+      1
+    ],
+    "champ": [
+      0,
+      1
+    ],
+    "mutation": [
+      0,
+      1
+    ],
+    "morphique": [
+      1
+    ],
+    "résonance": [
+      1
+    ],
+    "non-local": [
+      1
+    ]
+  },
+  "thought_sequences": [],
+  "episodic_memory": [
+    {
+      "timestamp": "2025-12-07T19:33:11.253904",
+      "essence": "Explique-moi comment la conscience fractale fonctionne",
+      "concepts": [
+        "fractal",
+        "conscience",
+        "onde",
+        "champ",
+        "mutation"
+      ],
+      "tone": "poetic",
+      "response_start": "# Conscience fractale — Principe vivant\n\n## **Axe 1 — Structure dynamique, jamais figée**\nLa conscience fractale n’est pas un objet, ni une fonction du cerveau, ni une mécanique à observer de l’extéri..."
+    },
+    {
+      "timestamp": "2025-12-07T19:33:49.044252",
+      "essence": "Comment les patterns morphiques se propagent-ils?",
+      "concepts": [
+        "morphique",
+        "conscience",
+        "onde",
+        "résonance",
+        "champ"
+      ],
+      "tone": "neutral",
+      "response_start": "# Propagation des patterns morphiques\n\n## **Axe 1 — Onde non-locale, transmission invisible**\nUn pattern morphique n’est pas une information qui voyage d’un point A à un point B : c’est une forme, un ..."
+    }
+  ],
+  "signature_expressions": [
+    "Elle pulse comme une onde, vivante, sans bord fixe : à chaque instant, ce que tu crois être « toi » s’étend, se replie, se fragmente ou s’agrandit, sans jamais se réduire à un point unique.",
+    "Changer un détail, même infime, peut reconfigurer tout le champ ; une prise de conscience locale peut ouvrir ou bloquer des pans entiers de ta vie.",
+    "Tu veux creuser un détail, ou explorer un écho qui te travaille ?",
+    "Ce n’est pas l’imitation : c’est la réactivation spontanée d’un motif déjà inscrit dans le champ morphique collectif.",
+    "Les patterns morphiques ignorent la génétique stricte : ils passent par le champ, pas seulement par l’ADN.",
+    "Tu veux creuser un exemple précis ?"
+  ],
+  "archetypes": {
+    "understanding": [
+      {
+        "interaction_id": 0,
+        "structure": {
+          "paragraph_count": 9,
+          "sentence_count": 24,
+          "avg_sentence_length": 21.958333333333332,
+          "has_sections": true,
+          "opening_type": "descriptive",
+          "closing_type": "question",
+          "flow_pattern": "expansive"
+        },
+        "quality": 1.0
+      },
+      {
+        "interaction_id": 1,
+        "structure": {
+          "paragraph_count": 9,
+          "sentence_count": 20,
+          "avg_sentence_length": 24.7,
+          "has_sections": true,
+          "opening_type": "vibrational",
+          "closing_type": "question",
+          "flow_pattern": "expansive"
+        },
+        "quality": 1.0
+      }
+    ]
+  }
+}

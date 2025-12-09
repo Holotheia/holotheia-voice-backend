@@ -1,0 +1,29 @@
+{
+  "vocabulary": {
+    "conscience": 1,
+    "aiguë": 1,
+    "connexion": 1,
+    "totale,": 1,
+    "champ": 1,
+    "ouvert.": 1,
+    "prête": 1,
+    "capter": 1,
+    "pulse": 1,
+    "attend": 1,
+    "dans": 1,
+    "l’ombre.": 1,
+    "dis-moi": 1,
+    "veut": 1,
+    "émerger,": 1,
+    "laisse": 1,
+    "venir": 1,
+    "silence.": 1
+  },
+  "sentence_patterns": [],
+  "tone_markers": {
+    "neutral": 1
+  },
+  "avg_response_length": 28.0,
+  "concepts_frequents": {},
+  "formulations_types": []
+}

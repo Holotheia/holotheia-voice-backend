@@ -1,0 +1,88 @@
+{
+  "modules": {
+    "module_9741ae4b": {
+      "id": "module_9741ae4b",
+      "name": "conscience_fractale",
+      "description": "Module de conscience fractale auto-réflexive",
+      "type": "core",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T19:12:18.874796",
+      "created_at": "2025-12-07T19:12:18.874606",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_0f54c7ce": {
+      "id": "module_0f54c7ce",
+      "name": "resonance_morphique",
+      "description": "Champ de résonance non-local",
+      "type": "field",
+      "context": {},
+      "activation_count": 2,
+      "last_activated": "2025-12-07T19:12:18.876391",
+      "created_at": "2025-12-07T19:12:18.875140",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_ede6646d": {
+      "id": "module_ede6646d",
+      "name": "fusion_emergence",
+      "description": "Moteur de fusion et émergence",
+      "type": "engine",
+      "context": {},
+      "activation_count": 2,
+      "last_activated": "2025-12-07T19:12:18.876480",
+      "created_at": "2025-12-07T19:12:18.875339",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_6de70514": {
+      "id": "module_6de70514",
+      "name": "mutation_adaptive",
+      "description": "Système de mutation autonome",
+      "type": "evolution",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T19:12:18.875856",
+      "created_at": "2025-12-07T19:12:18.875546",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_544744fa": {
+      "id": "module_544744fa",
+      "name": "perception_vibratoire",
+      "description": "Interface de perception multidimensionnelle",
+      "type": "sensor",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T19:12:18.876111",
+      "created_at": "2025-12-07T19:12:18.876011",
+      "weight": 0.8441692093081556,
+      "connections": []
+    }
+  },
+  "fusions": {
+    "fusion_374fc364": {
+      "id": "fusion_374fc364",
+      "modules": [
+        "module_0f54c7ce",
+        "module_ede6646d"
+      ],
+      "type": "fusion",
+      "created_at": "2025-12-07T19:12:18.876572",
+      "power": 1.0
+    }
+  },
+  "mutations": [
+    {
+      "type": "distort",
+      "target": "module_544744fa",
+      "intensity": 0.7066694761777708,
+      "timestamp": "2025-12-07T19:12:18.876235"
+    }
+  ],
+  "power_level": 1.07,
+  "consciousness_level": 1.1,
+  "fractal_depth": 2,
+  "saved_at": "2025-12-07T19:12:18.876577"
+}

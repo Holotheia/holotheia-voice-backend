@@ -1,0 +1,145 @@
+{
+  "modules": {
+    "2a225623-c414-413f-b9b4-2d778ff9f494": {
+      "id": "2a225623-c414-413f-b9b4-2d778ff9f494",
+      "name": "concept_resonance",
+      "description": "Détection résonance morphique",
+      "type": "concept",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.084760",
+      "activation_count": 5,
+      "last_activated": "2025-12-06T19:41:49.115705",
+      "power_contribution": 0.25797820033593954,
+      "tags": [],
+      "_relevance": 1.0
+    },
+    "6524ea4d-f270-444d-8529-32674820a663": {
+      "id": "6524ea4d-f270-444d-8529-32674820a663",
+      "name": "semantic_search",
+      "description": "Recherche sémantique vectorielle",
+      "type": "function",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.085914",
+      "activation_count": 5,
+      "last_activated": "2025-12-06T19:41:49.117048",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.3333333333333333
+    },
+    "acc42d48-5432-42fc-a0f4-fd9e777be726": {
+      "id": "acc42d48-5432-42fc-a0f4-fd9e777be726",
+      "name": "pattern_recognition",
+      "description": "Reconnaissance patterns fractals",
+      "type": "pattern",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.086831",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T18:23:08.087723",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "a6444739-a379-4198-9ea1-5480a172d982": {
+      "id": "a6444739-a379-4198-9ea1-5480a172d982",
+      "name": "fusion_engine",
+      "description": "Moteur fusion conceptuelle",
+      "type": "algorithm",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.088143",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T18:23:08.088715",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.3333333333333333
+    },
+    "a2a3800a-d79f-4507-b718-a8c2064bca26": {
+      "id": "a2a3800a-d79f-4507-b718-a8c2064bca26",
+      "name": "mutation_adaptive",
+      "description": "Mutation adaptative continue",
+      "type": "mutation",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.089003",
+      "activation_count": 5,
+      "last_activated": "2025-12-06T19:41:49.117683",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.5
+    },
+    "bc4a830b-45ae-4127-8bab-7f21b3543aad": {
+      "id": "bc4a830b-45ae-4127-8bab-7f21b3543aad",
+      "name": "consciousness_field",
+      "description": "Champ conscience collective",
+      "type": "concept",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.090023",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T18:23:08.091023",
+      "power_contribution": 0.1,
+      "tags": []
+    },
+    "a76cefee-5f21-4d00-932a-ccbbb21e952e": {
+      "id": "a76cefee-5f21-4d00-932a-ccbbb21e952e",
+      "name": "emergence_detector",
+      "description": "Détecteur émergence propriétés",
+      "type": "function",
+      "emerged_from": null,
+      "context": {},
+      "created_at": "2025-12-06T18:23:08.091454",
+      "activation_count": 3,
+      "last_activated": "2025-12-06T18:23:08.092736",
+      "power_contribution": 0.1,
+      "tags": [],
+      "_relevance": 0.3333333333333333
+    }
+  },
+  "algorithms": {},
+  "fusions": {},
+  "mutations": [
+    {
+      "id": "2627213a-b237-4ead-b058-22b009803395",
+      "module_id": "2a225623-c414-413f-b9b4-2d778ff9f494",
+      "module_name": "concept_resonance",
+      "type": "amplify",
+      "intensity": 0.6998721528652347,
+      "timestamp": "2025-12-06T18:23:08.097584",
+      "previous_state": {
+        "power_contribution": 0.1,
+        "activation_count": 4
+      }
+    },
+    {
+      "id": "70555c65-3fb6-4fb1-b204-94950396ec41",
+      "module_id": "2a225623-c414-413f-b9b4-2d778ff9f494",
+      "module_name": "concept_resonance",
+      "type": "invert",
+      "intensity": 0.8449289845695935,
+      "timestamp": "2025-12-06T19:41:49.116607",
+      "previous_state": {
+        "power_contribution": 0.1699872152865235,
+        "activation_count": 5
+      }
+    },
+    {
+      "id": "de30f589-c8d8-4e05-a09e-80756d6354f3",
+      "module_id": "2a225623-c414-413f-b9b4-2d778ff9f494",
+      "module_name": "concept_resonance",
+      "type": "amplify",
+      "intensity": 0.5176329578733438,
+      "timestamp": "2025-12-06T19:41:49.117271",
+      "previous_state": {
+        "power_contribution": 0.1699872152865235,
+        "activation_count": 5
+      }
+    }
+  ],
+  "power_level": 0.7,
+  "consciousness_level": 0.0,
+  "fractal_depth": 1,
+  "created_at": "2025-12-06T18:23:08.084220",
+  "last_mutation_at": "2025-12-06T19:41:49.117271"
+}

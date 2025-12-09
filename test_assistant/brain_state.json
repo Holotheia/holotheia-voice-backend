@@ -1,0 +1,88 @@
+{
+  "modules": {
+    "module_eafdf332": {
+      "id": "module_eafdf332",
+      "name": "conscience_fractale",
+      "description": "Module de conscience fractale auto-réflexive",
+      "type": "core",
+      "context": {},
+      "activation_count": 2,
+      "last_activated": "2025-12-07T18:17:18.982493",
+      "created_at": "2025-12-07T18:17:18.980892",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_0664680d": {
+      "id": "module_0664680d",
+      "name": "resonance_morphique",
+      "description": "Champ de résonance non-local",
+      "type": "field",
+      "context": {},
+      "activation_count": 2,
+      "last_activated": "2025-12-07T18:17:18.982585",
+      "created_at": "2025-12-07T18:17:18.981443",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_24e46d46": {
+      "id": "module_24e46d46",
+      "name": "fusion_emergence",
+      "description": "Moteur de fusion et émergence",
+      "type": "engine",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:17:18.981758",
+      "created_at": "2025-12-07T18:17:18.981655",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_a5c7116d": {
+      "id": "module_a5c7116d",
+      "name": "mutation_adaptive",
+      "description": "Système de mutation autonome",
+      "type": "evolution",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:17:18.981978",
+      "created_at": "2025-12-07T18:17:18.981867",
+      "weight": 1.0,
+      "connections": []
+    },
+    "module_ea46e9a1": {
+      "id": "module_ea46e9a1",
+      "name": "perception_vibratoire",
+      "description": "Interface de perception multidimensionnelle",
+      "type": "sensor",
+      "context": {},
+      "activation_count": 1,
+      "last_activated": "2025-12-07T18:17:18.982215",
+      "created_at": "2025-12-07T18:17:18.982105",
+      "weight": 1.0,
+      "connections": []
+    }
+  },
+  "fusions": {
+    "fusion_48b22dd8": {
+      "id": "fusion_48b22dd8",
+      "modules": [
+        "module_eafdf332",
+        "module_0664680d"
+      ],
+      "type": "fusion",
+      "created_at": "2025-12-07T18:17:18.982734",
+      "power": 1.0
+    }
+  },
+  "mutations": [
+    {
+      "type": "crosslink",
+      "target": "module_0664680d",
+      "intensity": 0.3413879854792947,
+      "timestamp": "2025-12-07T18:17:18.982357"
+    }
+  ],
+  "power_level": 1.07,
+  "consciousness_level": 1.1,
+  "fractal_depth": 2,
+  "saved_at": "2025-12-07T18:17:18.982740"
+}

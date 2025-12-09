@@ -1,0 +1,37 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: holotheia-native-service
+  labels:
+    app: holotheia-native
+spec:
+  type: LoadBalancer
+  selector:
+    app: holotheia-native
+  ports:
+  - protocol: TCP
+    port: 80
+    targetPort: 8000
+    name: http
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: holotheia-brain-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 10Gi
+---
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: holotheia-vectors-pvc
+spec:
+  accessModes:
+    - ReadWriteOnce
+  resources:
+    requests:
+      storage: 20Gi

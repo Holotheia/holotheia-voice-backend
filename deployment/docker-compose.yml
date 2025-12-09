@@ -1,0 +1,29 @@
+version: '3.8'
+
+services:
+  holotheia-api:
+    build:
+      context: ..
+      dockerfile: deployment/Dockerfile
+    image: holotheia-native:latest
+    container_name: holotheia-api
+    ports:
+      - "8000:8000"
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY:-}
+    volumes:
+      - holotheia-brain:/app/holotheia_brain_api
+      - holotheia-vectors:/app/holotheia_vectors_api
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8000/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+      start_period: 10s
+
+volumes:
+  holotheia-brain:
+    driver: local
+  holotheia-vectors:
+    driver: local

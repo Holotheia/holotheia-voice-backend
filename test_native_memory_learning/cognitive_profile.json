@@ -1,0 +1,26 @@
+{
+  "query_types": {
+    "understanding": 2
+  },
+  "response_strategies": {
+    "vibrational": 2
+  },
+  "reasoning_patterns": {
+    "question_back": 2,
+    "metaphor": 2,
+    "paradox": 1,
+    "embodiment": 1,
+    "scanning": 1
+  },
+  "approach_sequences": [
+    "question_back -> metaphor -> paradox",
+    "question_back -> metaphor -> scanning"
+  ],
+  "concepts_map": {},
+  "domain_expertise": {},
+  "input_transforms": {},
+  "output_patterns": {},
+  "self_references": [],
+  "boundary_responses": {},
+  "error_corrections": []
+}
